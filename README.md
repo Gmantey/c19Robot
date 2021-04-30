@@ -55,3 +55,4 @@ You can run the app on your browser at http://127.0.0.1:8050
 ## Resources
 
 To learn more about Dash, please visit [documentation](https://plot.ly/dash).
+For information contact ME Professor for my email.
