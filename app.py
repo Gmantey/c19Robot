@@ -36,10 +36,6 @@ Y = deque(maxlen=20)
 Y.append(1)
 
 
-# Data for Scatter plot
-homedir = os.path.dirname(os.path.abspath(__file__))
-data_2 = os.path.join(homedir, 'data/study.csv')
-
 # Card components
 cards = [
     dbc.Card(
