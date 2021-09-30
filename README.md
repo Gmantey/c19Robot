@@ -13,8 +13,7 @@ The app is still being developed. Updates to this file is coming.
 To run this app first clone repository and then open a terminal to the app folder.
 
 ```
-git clone https://github.com/plotly/dash-sample-apps.git
-cd dash-sample-apps/apps/studybrowser
+git clone https://github.com/Gmantey/c19Robot
 ```
 
 Create and activate a new virtual environment (recommended) by running
